@@ -1,6 +1,7 @@
+![Purple Gradient Digital Marketing LinkedIn Banner](https://www.canva.com/design/DAGLsOcpjzo/U9jBiDRrLAR8tDVZVkybZw/edit?utm_content=DAGLsOcpjzo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Machine Learning<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Backend 
-
+😎 Hello, I am Manoj
+🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning Backend WebDev
 
 ## 🌐 Socials:
 
