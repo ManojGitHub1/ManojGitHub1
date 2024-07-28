@@ -1,7 +1,4 @@
-<img src="https://www.canva.com/design/DAGLsOcpjzo/J4QMKI8nO2MOdcoV4EYqCw/view?utm_content=DAGLsOcpjzo&utm_campaign=designshare&utm_medium=link&utm_source=editor"
-   alt="Short Image Description"
-   style="float: left; margin-right: 10px;" 
-   /> 
+![logo](https://www.canva.com/design/DAGLsOcpjzo/J4QMKI8nO2MOdcoV4EYqCw/view?utm_content=DAGLsOcpjzo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 # 💫 About Me:
 😎 Hello, I am Manoj
 🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning Backend WebDev
