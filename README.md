@@ -1,147 +1,27 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block;">Hi 👋, I'm Manoj</h1></summary>
-  </ul>
-</div>
+# 💫 About Me:
+👋 Hello, I’m Manoj — a final‑year Computer Science student who writes code by day and chases performance bugs by night. Here’s a (somewhat serious) look at what I do:<br>🏗️ Full‑Stack Developer: Building web & mobile apps end‑to‑end (yes, I survive on caffeine ☕️)<br>🚀 Performance Tuner: Haunting APIs until they respond in under 0.5 s (latency, beware!)<br>☁️ Cloud Engineer: Deploying services on GCP, AWS & Vercel—sometimes I talk to clouds more than people<br>🤖 AI/ML Tinkerer: Teaching algorithms to learn so I can learn to sleep… eventually<br>🧩 Problem Solver: Turning tangled requirements into clean, maintainable solutions<br>Let’s connect and build something both reliable—and fun—together!
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Backend+Developer;Open-Source+Collaborator;Lifelong+Learner" alt="Typing SVG">
-  </a>
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoj-jivanagi-073179267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/manojjivanagi" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="mailto:manojjivanagi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://discord.com/users/1122092847093514240" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manoj_mysticodyssey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manoj-jivanagi-073179267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojjivanagi@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ManojGitHub1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ManojGitHub1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojGitHub1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 About Me
-- 🔭 I’m currently building scalable and intelligent systems using **Machine Learning**.
-- 🌱 I’m deepening my expertise in **Backend Web Development** and distributed systems.
-- 👯 I’m looking to collaborate on impactful **Open Source Machine Learning projects**.
-- 💬 Ask me about **Python, ML Frameworks, or Backend Architecture**.
-- 📫 How to reach me: **manojjivanagi@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManojGitHub1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ManojGitHub1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ManojGitHub1&icon=8&color=2)](https://visitcount.itsvg.in)
 
-## 🛠️ My Tech Arsenal
-
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <h4>Languages</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>ML & Data</h4>
-      <a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>Backend & Frameworks</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>Databases & Cloud</h4>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
-    </td>
-    <td align="center" width="20%">
-      <h4>DevOps & Tools</h4>
-      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ManojGithub1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojGithub1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Manoj's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ManojGithub1">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojGithub1&theme=tokyonight" alt="Manoj's GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojGithub1&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManojGithub1&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManojGithub1/ManojGithub1/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
-
-## 🌟 Featured Projects
-
-<!-- To add more projects, copy and paste the entire table block and update the content. -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Title 1</h3>
-      <p>A brief, compelling description of your project. What problem does it solve? What technologies did you use? Keep it concise and impactful.</p>
-      <p>
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-        </a>
-        <a href="[LINK_TO_LIVE_DEMO_IF_AVAILABLE]" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-43b581?style=for-the-badge" alt="Live Demo">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]"><img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" alt="Project 1 Demo"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Title 2</h3>
-      <p>Describe your second flagship project here. Highlight the key features and your role in developing it. Mention the tech stack involved.</p>
-      <p>
-        <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]"><img src="[LINK_TO_PROJECT_IMAGE_OR_GIF]" alt="Project 2 Demo"></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- The content below will be automatically updated by a GitHub Action -->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ManojGithub1&icon=0&color=11" alt="Visitor Count"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
