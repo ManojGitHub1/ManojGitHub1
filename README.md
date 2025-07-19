@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/banner.svg" alt="Hero Banner" width="100%" />
+  [<img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/banner.svg" alt="Hero Banner" width="100%" />](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-q1p2DrLBtko)
 </p>
 
 <!-- ====== BADGES ====== -->
@@ -98,10 +98,3 @@
 </p>
 
 ---
-
-<details>
-  <summary>📝 Random Dev Quote</summary>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the day" />
-  </p>
-</details>
