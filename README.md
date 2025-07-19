@@ -1,9 +1,10 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <div style="width:100%; height:150px; overflow:hidden; background:
-      url('https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&q=80')
-      center center / cover no-repeat;">
-  </div>
+  <img
+    src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&h=150&q=80"
+    alt="GitHub Banner"
+    width="100%"
+  />
 </p>
 
 
