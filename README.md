@@ -1,12 +1,11 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&q=80"
-    alt="GitHub Banner"
-    width="100%"
-    style="height:150px; object-fit:cover; object-position:center;"
-  />
+  <div style="width:100%; height:150px; overflow:hidden; background:
+      url('https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&q=80')
+      center center / cover no-repeat;">
+  </div>
 </p>
+
 
 <!-- ====== BADGES ====== -->
 <p align="center">
