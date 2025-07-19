@@ -4,7 +4,7 @@
     src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&q=80"
     alt="GitHub Banner"
     width="100%"
-    style="max-height:250px; object-fit:cover;"
+    style="height:150px; object-fit:cover; object-position:center;"
   />
 </p>
 
