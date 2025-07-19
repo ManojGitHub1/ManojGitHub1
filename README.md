@@ -1,7 +1,7 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
   <img
-    src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&h=150&q=80"
+    src="https://images.unsplash.com/photo-1630514969818-94aefc42ec47?auto=format&fit=crop&w=1600&h=850&q=80"
     alt="GitHub Banner"
     width="100%"
   />
