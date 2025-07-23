@@ -33,21 +33,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/manoj-jivanagi-073179267/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:manojjivanagi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/manojjivanagi/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -102,3 +87,21 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight" alt="Trophies" />
 </p>
+
+---
+
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-jivanagi-073179267/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manojjivanagi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/manojjivanagi/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
